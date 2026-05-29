@@ -8,6 +8,7 @@ The project implements a relational structure with three core tables:
 - **BOOKS:** Stores book titles, genres, pricing, and stock details.
 - **CUSTOMERS:** Holds profile records of registered buyers and locations.
 - **ORDERS:** Tracks full transaction histories linked with customer and book identifiers.
+* **Dataset Used:** The raw data consisting of 3 CSV files (Books, Customers, and Orders) is available in this repository for review.
 
 ## 🚀 Key SQL Concepts Demonstrated
 - Data Definition & Constraints (Primary Key, Foreign Key)
