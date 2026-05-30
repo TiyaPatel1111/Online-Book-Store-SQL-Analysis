@@ -45,7 +45,7 @@ The project systematically resolves **14 basic and 9 advanced business questions
 ## 📊 Full Report & Code Snippets
 The repository includes the comprehensive T-SQL script containing the complete table structures, database constraints, and execution outputs for all 23 queries.
 
-📄 **[View Complete Project PDF Report](./sql_prj..pdf)**
+📄 **[View Complete Project PDF Report](./sql prj..pdf)**
 
 ---
 
